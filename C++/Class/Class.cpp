@@ -31,7 +31,7 @@ is allocated .
  Student Nahid;
  Student Dihan;
 
-
+//
 
  //How to declare class and object?
  -
