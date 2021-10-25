@@ -83,6 +83,7 @@ class Student
 int main()
 {
 	Student Nahid,Dihan;//Nahid and Dihan is an object of student class which have every property of Student class
+	//object will be stored in a stack ,not in a heap. 
 	Nahid.id=119;
 	Nahid.gpa=3.99;
 	cout<<Nahid.id<<" "<<Nahid.gpa<<endl;
