@@ -8,7 +8,8 @@
 //-No.eita korley tow function likhar main purpose tai moira jabey.Jeshob function er code choto oishob function ke inline function banano jay.
 
 //Boro Code wala function ke inline banale ki prob?
-//-eita korle Cache memory onek bere jabey..ar oi function bar bar call korley code er memory onek baira jabey..ar beparta "Tude Catni,bekar khatni" hoye jabey.kajer ceye okaj beshi hobey
+//-eita korle Cache memory onek bere jabey..ar oi function bar bar call korley code er memory onek baira jabey..ar beparta "Tude Catni,bekar khatni" hoye jabey.kajer ceye okaj 
+//beshi hobey
 
 
 //Where using inline function is not recommended?
