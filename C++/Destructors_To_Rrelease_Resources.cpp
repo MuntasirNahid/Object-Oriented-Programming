@@ -8,7 +8,7 @@ private:
 	int *age;
 public:
 
-	Human(string iname,int iage)//Default values if we dont pass proper elements
+	Human(string iname,int iage)//Default values if we dont pass proper parameters
 	{
 		//Dynamically allocating memory
 		name=new string;
