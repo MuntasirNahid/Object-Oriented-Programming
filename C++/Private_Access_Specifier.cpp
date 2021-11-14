@@ -9,10 +9,15 @@ using namespace std;
 class Human{
  private://if we have a method or function inside private specifier it will not be available outside the class
  	int age;
+ 	//By using these private method we can hide our internal Data.Like we can change the age ..As Private access
+ 	//user will only see what private access user shows them.The main data can be hidden.
+ 	
+
  	int getAge()
  	{
  		return age-5;
  	}
+
  public:
  	void DisplayAge()
  	{
