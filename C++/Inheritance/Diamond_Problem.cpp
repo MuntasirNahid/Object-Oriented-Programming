@@ -2,19 +2,19 @@
 //-->
 //The diamond problem is set to arise when there is an inheritance hierarchy containing two or more base classes that inherite from a common base which results in a need of ambiguity resoulation in the absence of virtual inheritance is called diamond problem.
 /*
-				-----
-				| A |
-				-----
+				  -----
+				  | A |
+				  -----
 				/	\
-			   /     \
-	   	  -----		  -----
-	      | B |		  | C |
-	      -----		  -----
-	      	   \     /
-	      	    \   /
-	   			-----
-	   			| D |
-	   			-----
+			       / 	 \
+	   	     	    -----	  -----
+	     	    	    | B |	  | C |
+	    	    	    -----	  -----
+	      	   		  \     /
+	      	    		   \   /
+	   			   -----
+	   			   | D |
+	   			   -----
 */
 
 //here the class D is referred to the member of the class  A
